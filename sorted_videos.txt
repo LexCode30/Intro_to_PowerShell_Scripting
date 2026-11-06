@@ -1,0 +1,14 @@
+# Intro to PowerShell Scripting
+
+1. Module 1 - Intro to PowerShell Scripting  [s1.html]
+    001. What is PowerShell  ->  https://drive.google.com/file/d/1VVPZ7rXX8Pr9c9PmN4fHvHBwZxtMlF-t/preview
+    002. Working with P2  ->  https://drive.google.com/file/d/1LKa550dDY6-DlUL0HsnmsBu3dbNBh3ig/preview
+    003. Command Line  ->  https://drive.google.com/file/d/1MzzLmxcXr3mQAwC9TzRWMAX4ol_wnpQ1/preview
+    004. Getting Help  ->  https://drive.google.com/file/d/1bZj_2p3CFq4XiXjHgn5saCTh385KUzwW/preview
+    005. Additional Piping  ->  https://drive.google.com/file/d/1Fk63TZoLtIoOK2R8o9jv4gA6eAap5sAR/preview
+    006. Additional Help  ->  https://drive.google.com/file/d/1IbpeLjw2hYlicETDCxg8cytR2ZHEjOAQ/preview
+    007. Scripting Basics  ->  https://drive.google.com/file/d/15X68tnp3hEuaEUe3vwD16I7mmMhB1Xjq/preview
+    008. Common Commands Part 1  ->  https://drive.google.com/file/d/1u0508MWbOY1yGXjepEVFAbe-quUZyd-w/preview
+    009. Common Commands Part 2  ->  https://drive.google.com/file/d/1MT_A_9XUPRj_EtxF2AdLOORotBqeoyX-/preview
+    010. Common Commands Part 3  ->  https://drive.google.com/file/d/1-XUr4rz8D2KDDwmYfOo8fsYzZURIzi0m/preview
+    011. Common Commands Part 4  ->  https://drive.google.com/file/d/1s0LwS-SU2iIG9QcQoMkqOidzpU_9jFRI/preview

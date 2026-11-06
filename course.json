@@ -1,0 +1,93 @@
+{
+  "name": "Intro to PowerShell Scripting",
+  "slug": "Intro_to_PowerShell_Scripting",
+  "url": "https://LexCode30.github.io/Intro_to_PowerShell_Scripting/",
+  "category": "programming",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Module 1 - Intro to PowerShell Scripting",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "What is PowerShell",
+          "id": "1VVPZ7rXX8Pr9c9PmN4fHvHBwZxtMlF-t",
+          "anchor": "v-1VVPZ7rXX8Pr9c9PmN4fHvHBwZxtMlF-t",
+          "href": "s1.html#v-1VVPZ7rXX8Pr9c9PmN4fHvHBwZxtMlF-t"
+        },
+        {
+          "number": 2,
+          "title": "Working with P2",
+          "id": "1LKa550dDY6-DlUL0HsnmsBu3dbNBh3ig",
+          "anchor": "v-1LKa550dDY6-DlUL0HsnmsBu3dbNBh3ig",
+          "href": "s1.html#v-1LKa550dDY6-DlUL0HsnmsBu3dbNBh3ig"
+        },
+        {
+          "number": 3,
+          "title": "Command Line",
+          "id": "1MzzLmxcXr3mQAwC9TzRWMAX4ol_wnpQ1",
+          "anchor": "v-1MzzLmxcXr3mQAwC9TzRWMAX4ol_wnpQ1",
+          "href": "s1.html#v-1MzzLmxcXr3mQAwC9TzRWMAX4ol_wnpQ1"
+        },
+        {
+          "number": 4,
+          "title": "Getting Help",
+          "id": "1bZj_2p3CFq4XiXjHgn5saCTh385KUzwW",
+          "anchor": "v-1bZj_2p3CFq4XiXjHgn5saCTh385KUzwW",
+          "href": "s1.html#v-1bZj_2p3CFq4XiXjHgn5saCTh385KUzwW"
+        },
+        {
+          "number": 5,
+          "title": "Additional Piping",
+          "id": "1Fk63TZoLtIoOK2R8o9jv4gA6eAap5sAR",
+          "anchor": "v-1Fk63TZoLtIoOK2R8o9jv4gA6eAap5sAR",
+          "href": "s1.html#v-1Fk63TZoLtIoOK2R8o9jv4gA6eAap5sAR"
+        },
+        {
+          "number": 6,
+          "title": "Additional Help",
+          "id": "1IbpeLjw2hYlicETDCxg8cytR2ZHEjOAQ",
+          "anchor": "v-1IbpeLjw2hYlicETDCxg8cytR2ZHEjOAQ",
+          "href": "s1.html#v-1IbpeLjw2hYlicETDCxg8cytR2ZHEjOAQ"
+        },
+        {
+          "number": 7,
+          "title": "Scripting Basics",
+          "id": "15X68tnp3hEuaEUe3vwD16I7mmMhB1Xjq",
+          "anchor": "v-15X68tnp3hEuaEUe3vwD16I7mmMhB1Xjq",
+          "href": "s1.html#v-15X68tnp3hEuaEUe3vwD16I7mmMhB1Xjq"
+        },
+        {
+          "number": 8,
+          "title": "Common Commands Part 1",
+          "id": "1u0508MWbOY1yGXjepEVFAbe-quUZyd-w",
+          "anchor": "v-1u0508MWbOY1yGXjepEVFAbe-quUZyd-w",
+          "href": "s1.html#v-1u0508MWbOY1yGXjepEVFAbe-quUZyd-w"
+        },
+        {
+          "number": 9,
+          "title": "Common Commands Part 2",
+          "id": "1MT_A_9XUPRj_EtxF2AdLOORotBqeoyX-",
+          "anchor": "v-1MT_A_9XUPRj_EtxF2AdLOORotBqeoyX-",
+          "href": "s1.html#v-1MT_A_9XUPRj_EtxF2AdLOORotBqeoyX-"
+        },
+        {
+          "number": 10,
+          "title": "Common Commands Part 3",
+          "id": "1-XUr4rz8D2KDDwmYfOo8fsYzZURIzi0m",
+          "anchor": "v-1-XUr4rz8D2KDDwmYfOo8fsYzZURIzi0m",
+          "href": "s1.html#v-1-XUr4rz8D2KDDwmYfOo8fsYzZURIzi0m"
+        },
+        {
+          "number": 11,
+          "title": "Common Commands Part 4",
+          "id": "1s0LwS-SU2iIG9QcQoMkqOidzpU_9jFRI",
+          "anchor": "v-1s0LwS-SU2iIG9QcQoMkqOidzpU_9jFRI",
+          "href": "s1.html#v-1s0LwS-SU2iIG9QcQoMkqOidzpU_9jFRI"
+        }
+      ]
+    }
+  ]
+}
